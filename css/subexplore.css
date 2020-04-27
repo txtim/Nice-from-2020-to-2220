@@ -1,0 +1,98 @@
+/* -------  SUBEXPLORE MAIN ------- */
+
+#explore-details {
+  display: flex;
+  padding: 7rem 0 0rem 2rem;
+}
+
+/* -------  SUBEXPLORE PHOTOS ------- */
+
+#photos {
+  flex: 1 1 60%;
+  margin: 1% 0% 1% 2%;
+}
+
+#photos > div {
+  width: 100%;
+  margin-bottom: 1.5%;
+}
+
+#original-picture {
+  z-index: 2;
+  opacity: 1;
+  transition: 5s all ease-in-out;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+#switch-button {
+  width: 6%;
+  display: block;
+  margin: 0 auto 0 auto;
+  height: auto;
+  cursor: pointer;
+}
+
+/* -------  SUBEXPLORE TEXT ------- */
+
+#photo-description {
+  flex: 1 1 40%;
+  padding-left: 5%;
+}
+
+#photo-description > h3 {
+  margin: 0;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 0.1rem;
+  font-size: 3.5rem;
+  font-weight: lighter;
+  padding: 0% 8% 1% 0;
+}
+
+#photo-description > hr {
+  height: 4px;
+  background-color: white;
+}
+
+#photo-description > p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #212121;
+  padding: 1rem;
+  margin: 4% 15% 0 0;
+  box-shadow: 8px 8px #050505;
+}
+
+
+#explore1 {
+  background-image: url("../img/Chateau-resize-test-web.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#explore2 {
+  background-image: url("../img/IMG_8428-FINAL.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#explore3 {
+  background-image: url("../img/IMGG_8442.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#explore4 {
+  background-image: url("../img/IMG_8585-2-FINAL.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+#explore5 {
+  background-image: url("../img/port-final.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}

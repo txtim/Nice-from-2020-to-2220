@@ -1,0 +1,22 @@
+/* MAIN */
+
+main {
+  padding: 8rem;
+}
+
+h3 {
+  font-weight: bold;
+  margin: 5rem 0 4rem 0;
+}
+
+p {
+  border-top: 2px solid #fff;
+  border-left: 2px solid #fff;
+  padding: 2rem 0 0 2rem;
+  margin-left: 3rem;
+}
+
+main span {
+  display: block;
+  margin: 4rem 0 0 8rem;
+}

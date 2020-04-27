@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Switch Camera</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M59 17H46.6L40 9H24l-6.6 8H5a3 3 0 0 0-3 3v30a3 3 0 0 0 3 3h54a3 3 0 0 0 3-3V20a3 3 0 0 0-3-3z"
+  fill="none" stroke="#ffffff" stroke-miterlimit="10" stroke-width="3" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <path data-name="layer1" fill="none" stroke="#ffffff" stroke-miterlimit="10"
+  stroke-width="3" d="M38 33l4 4 4-4m-20 0l-4-4-4 4" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+  <path data-name="layer1" d="M36.7 41.8A9.8 9.8 0 0 1 25 40.1a10.1 10.1 0 0 1-2.3-10.4m4.6-5.5A9.8 9.8 0 0 1 39 25.9a10.1 10.1 0 0 1 2.3 10.4"
+  fill="none" stroke="#ffffff" stroke-miterlimit="10" stroke-width="3" stroke-linejoin="round"
+  stroke-linecap="round"></path>
+</svg>

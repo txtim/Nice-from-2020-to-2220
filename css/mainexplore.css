@@ -1,0 +1,82 @@
+/* -------  EXPLORE MAIN ------- */
+
+#explore-details {
+  display: flex;
+  padding: 7% 5% 0% 5%;
+}
+
+/* -------  EXPLORE MAP ------- */
+
+#map {
+  flex: 1 1 65%;
+}
+
+#map > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* -------  EXPLORE LOCATIONS ------- */
+
+#locations {
+  flex: 1 1 35%;
+  margin-left: 5%;
+  border: 2px solid #c5c5c5;
+  background-color: #1A1A1A;
+  padding: 1% 1.5%;
+}
+
+#locations > h2 {
+  text-align: left;
+  font-size: 1.65rem;
+  color: #c5c5c5;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+  line-height: 2rem;
+  margin-bottom: 3rem;
+}
+
+.explore-localisation {
+  display: flex;
+  width: 100%;
+  margin: 0 0 1rem 0;
+  justify-content: center;
+  align-items: center;
+} 
+
+.explore-localisation > * {
+  margin: 0;
+  width: 100%;
+} 
+
+.number-logo {
+  flex: 1 1 15%;
+} 
+
+.number-logo > img{
+  height: auto;
+  display: block;
+  width: 60%;
+} 
+
+.title-location {
+  flex: 1 1 70%;
+} 
+
+.clock-location {
+  flex: 1 1 15%;
+} 
+
+.clock-location img{
+  height: auto;
+  display: block;
+  width: 75%;
+} 
+
+#location-p {
+  font-size: 1.1rem;
+  margin: 2rem 0 1rem 0;
+  font-style: italic;
+} 

@@ -1,0 +1,50 @@
+/* -------  HEADER MAIN ------- */
+
+header {
+  background-color: #181818;
+  width: 100%;
+  text-transform: uppercase;
+  position: fixed;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 4px solid #fff;
+  font-size: 1.7rem;
+  padding: 0 5%;
+  z-index: 3;
+}
+
+/* -------  HEADER TITLE ------- */
+
+#header-title {
+  flex: 1 1 30%;
+}
+
+/* -------  HEADER ELEMENTS ------- */
+
+#nav {
+  flex: 1 1 65%;
+}
+
+#nav > li {
+  display: inline-block;
+  text-align: center;
+  width: 14%;
+}
+
+#nav > li > a {
+  cursor: pointer;
+}
+
+#active-header {
+  box-shadow: 0 4px 2px -2px cyan;
+}
+
+/* -------  HEADER MENU ------- */
+
+#hamburger-nav {
+  flex: 1 1 5%;
+  height: 40%;
+  cursor: pointer;
+  display: none;
+}
